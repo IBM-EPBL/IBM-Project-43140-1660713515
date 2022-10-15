@@ -9,9 +9,10 @@ Team Members:
 </ul>
 Project Description:
 
-<br>In this project, we will be building a chatbot using IBM Watson assistant. The chatbot should have the following capabilities:</br>
-<br>The Bot should be able to guide a customer to create a bank account.</br>
-<br>The Bot should be able to answer loan queries.</br>
-<br>The Bot should be able to answer general banking queries.</br>
-<br>The Bot should be able to answer queries regarding net banking.</br>
-
+In this project, we will be building a chatbot using IBM Watson assistant. The chatbot should have the following capabilities:
+<ul>
+<li>The Bot should be able to guide a customer to create a bank account.</li>
+<li>The Bot should be able to answer loan queries.</li>
+<li>The Bot should be able to answer general banking queries.</li>
+<li>The Bot should be able to answer queries regarding net banking.</li>
+</ul>
